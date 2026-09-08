@@ -40,7 +40,7 @@ Strapi gives you many possible deployment options for your project including [St
 yarn strapi deploy
 ```
 
-## 📚 Learn more go and check out links below and explore it!
+## 📚 Learn more go and check out and explore it!
 
 - [Resource center](https://strapi.io/resource-center) - Strapi resource center.
 - [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
